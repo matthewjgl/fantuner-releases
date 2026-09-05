@@ -9,16 +9,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Most recent FanTuner release.</description>
         <language>en</language>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Sat, 05 Sep 2026 01:12:17 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Sat, 05 Sep 2026 01:36:39 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/matthewjgl/fantuner-releases/releases/download/v1.0.5/FanTuner-1.0.5.dmg" length="8852560" type="application/octet-stream" sparkle:edSignature="YvJjlvSuJVZ29w12SwGkTifa9xo69WHG3LcWbnOhg99xfQ/OW8irJ/DCmaBcPXv9Zewy9i+aHWkOCaqnl9DiAg=="/>
+            <enclosure url="https://github.com/matthewjgl/fantuner-releases/releases/download/v1.0.6/FanTuner-1.0.6.dmg" length="8852515" type="application/octet-stream" sparkle:edSignature="f6VZV+U2BQxA3uJS4JoMQpBbEJ3s7vJXwVwOoVNI7fbIpw5NrNisL+3Y63TqJ0+yOedetLWvk55b+MZesClEDg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: n0uSgkVkFckvYEMblXIyuC789lv78i2ofDY3aFvikLidmGEZ5w5mEiV3BQBan07T5XA190Aw8I77dE9bdV2gCw==
+edSignature: SMr4ruwokrVg8n1dx8XCklvUa/u0vIR63jxP5GozIpMFQtkbpaATLuYVe1DPH5OfYIrmUvSDOAzhYUf4MA5bCA==
 length: 1279
 -->
